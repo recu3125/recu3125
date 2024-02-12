@@ -27,4 +27,5 @@
 <br> &emsp;&emsp; 처음보는 언어인데 이상하게 이해가 된다...? 깃허브에서 예제 코드를 복붙해서 사용해보세요!
 <br> &emsp;&emsp; <img src="https://github.com/recu3125/recu3125/assets/68118081/65284cf3-8e33-47cc-a7f8-374e54eeb6ef" style ="width:300px">
 
+이 외 다른 프로젝트들도 구경해보세요!
 
