@@ -12,7 +12,7 @@
 <br> &emsp;&emsp; <img src="https://github.com/recu3125/recu3125/assets/68118081/db9e24e9-f4ed-4d20-a34f-74944d614933" style ="width:300px">
 
 
-### [Korhyme](https://korhyme.recu3125.com/) ([깃허브](https://github.com/recu3125/Korhyme)): 유사한 발음의 단어를 찾아 주는 한국어 라임(운율) 검색기
+### [Korhyme](https://korhyme.recu3125.com/): 유사한 발음의 단어를 찾아 주는 한국어 라임(운율) 검색기
 &emsp;&emsp;'바름' 을 검색하면 '염발음'	'레룸노바룸' '팔음' 같은 것들이 결과로 나와요! 레룸노바룸이 뭐람
 <br> &emsp;&emsp; 지금까지 약 52만 개의 단어가 검색되었어요!
 <br> &emsp;&emsp; <img src="https://github.com/recu3125/recu3125/assets/68118081/8ff04977-a905-4aed-9166-52fe2a20fccc" style ="width:300px">
