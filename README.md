@@ -1,9 +1,9 @@
 <!-- | <img src="https://github.com/recu3125/recu3125/assets/68118081/e5b7108b-eae3-4834-a474-ee021ae56493" style="width:30px; object-fit: contain;"> | Korea University Division of Smart Security <br> 고려대 스마트보안학부 24학번 |
 |-----------|------------| -->
 <h2>recu3125 (유승호)</h2>
-<a href = "mailto:superhoy0509@gmail.com">superhoy0509@gmail.com</a>
+<h3>superhoy0509@gmail.com</h3>
 
-<br> 고려대학교 스마트보안학부 재학 중
+고려대학교 스마트보안학부 재학 중
 <br>한국디지털미디어고등학교 웹프로그래밍과 졸업<br>
 
 ### [Colorword](https://colorword.recu3125.com/): 단어에서 연상하는 색들을 투표로 모아 사진 하나로 만드는 웹사이트
