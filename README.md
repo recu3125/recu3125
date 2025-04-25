@@ -1,7 +1,7 @@
 <h1 align="center">recu3125 (유승호)</h1>
 
 <p align="center">
-  <em>superhoy0509@gmail.com</em><br>
+  📧 superhoy0509@gmail.com<br>
   🎓 고려대학교 스마트보안학부 재학 중<br>
   🏫 한국디지털미디어고등학교 웹프로그래밍과 졸업
 </p>
